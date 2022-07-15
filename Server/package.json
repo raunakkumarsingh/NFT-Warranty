@@ -1,0 +1,25 @@
+{
+  "name": "nftwarranty",
+  "version": "1.0.0",
+  "description": "Blockchain based ecommerce system using NFT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raunakkumarsingh/NFT-Warranty.git"
+  },
+  "author": "Raunak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raunakkumarsingh/NFT-Warranty/issues"
+  },
+  "homepage": "https://github.com/raunakkumarsingh/NFT-Warranty#readme",
+  "devDependencies": {
+    "hardhat": "^2.10.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.0"
+  }
+}
