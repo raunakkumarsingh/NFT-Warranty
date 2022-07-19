@@ -1,0 +1,13 @@
+{
+  "attributes": [
+    {
+      "color": "Blue",
+      "value": "130000",
+      "ram":"12gb",
+      "storage":"256gb"
+    }
+  ],
+  "description": "This is Amazing Camera Smartphone.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYQV7J2B7LPoq7NEM9Fd8fvkk3o8ZanXKjyD3PTZuZLH4",
+  "name": "IPhone 13"
+}

@@ -1,25 +1,24 @@
 {
-  "name": "nftwarranty",
+  "name": "nftdemo",
   "version": "1.0.0",
-  "description": "Blockchain based ecommerce system using NFT",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/raunakkumarsingh/NFT-Warranty.git"
-  },
-  "author": "Raunak",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/raunakkumarsingh/NFT-Warranty/issues"
-  },
-  "homepage": "https://github.com/raunakkumarsingh/NFT-Warranty#readme",
   "devDependencies": {
-    "hardhat": "^2.10.1"
+    "@nomiclabs/hardhat-ethers": "^2.0.0",
+    "@nomiclabs/hardhat-waffle": "^2.0.0",
+    "chai": "^4.2.0",
+    "ethereum-waffle": "^3.0.0",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.6.8"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.7.0"
+    "@alch/alchemy-web3": "^1.1.8",
+    "@openzeppelin/contracts": "^4.3.3",
+    "dotenv": "^10.0.0"
   }
 }
